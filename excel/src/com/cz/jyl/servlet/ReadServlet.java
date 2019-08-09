@@ -19,7 +19,7 @@ import org.apache.tomcat.util.http.fileupload.util.Streams;
 @WebServlet("/read.do")
 public class ReadServlet extends HttpServlet {
 
-	//修改
+	//修改ssss
 	File tmpDir = null;// 初始化上传文件的临时存放目录
 	File saveDir = null;// 初始化上传文件后的保存目录
 
